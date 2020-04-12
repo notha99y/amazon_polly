@@ -6,7 +6,7 @@
 ## Setup
 1. Setup an AWS CLI [here](https://docs.aws.amazon.com/polly/latest/dg/setup-aws-cli.html)
 1. Install Boto3 [here](https://aws.amazon.com/sdk-for-python/)
-1. `aws configure` with your IAM account
+1. `aws configure` with your IAM account's credentials
 
 ## Run
 ```bash
