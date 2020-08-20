@@ -2,3 +2,5 @@
 speeches
 validation_set
 ignore
+.DS_store
+__pycache__
