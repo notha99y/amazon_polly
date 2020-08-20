@@ -10,7 +10,7 @@
 
 ## Run
 ```bash
-python amazon_poly.py -h
+python amazon_polly.py -h
 ```
 ## Some Generated Voice
 ![hips_dont_lie](generated_speech/hips_dont_lie.mp3)
